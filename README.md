@@ -30,7 +30,7 @@ Previously spent 12 years as IT Infrastructure Manager at Sandvik (Fortune 500),
 ### Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/alexander-tarasov-react/)
-- [CV Website](https://lexeor.github.io/cv/)
+- [Portfolio site](https://lexeor.github.io/introduction/)
 - lexeor.ross@gmail.com
 - Herceg Novi, Montenegro (UTC+1)
 
