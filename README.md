@@ -13,20 +13,6 @@ Previously spent 12 years as IT Infrastructure Manager at Sandvik (Fortune 500),
 - **Testing:** Jest, React Testing Library, Playwright
 - **Tools:** Vite, Webpack, Docker, Git, REST API, WebSockets
 
-### Featured Projects
-
-**Apartment Configurator** — Interactive widget with layered SVG rendering for real estate floor plan visualization. Step-by-step room assembly with conditional logic.
-*React, TypeScript, SVG, Framer Motion, Zustand, Tailwind CSS*
-
-**Kvarum** — Event management SPA with real-time calendar updates via WebSockets, 500+ active users.
-*React, TypeScript, Styled Components, WebSockets, Jest, Playwright*
-
-**Craftistry** — Telegram MiniApp e-commerce platform for artisan crafters.
-*React, TypeScript, Tailwind CSS, Telegram Bot API*
-
-**Bus Tracker** — Real-time bus tracking with animated SVG route visualization.
-*React, TypeScript, SVG, Framer Motion*
-
 ### Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/alexander-tarasov-react/)
